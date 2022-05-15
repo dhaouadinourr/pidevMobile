@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/ReclamationClientForm.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/EvenementAdmin.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/entity/Commande.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/utils/Statics.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/service/ServiceReservation.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/ReservationForm.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/utils/DataSource.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/ZoneClient.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/AcceuilAdmin.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/entity/Reclamation.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/service/CommandeService.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/UsersAfficheForm.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/CommandeAdmin.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/entity/Equipement.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/EquipementForm.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/AcceuilClientForm.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/service/EvenementService.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/entity/Offre.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/service/ZoneService.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/Login.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/Registre.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/myapp/MyApplication.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/service/OffreService.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/service/EquipementService.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/service/ClientService.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/entity/Zone.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/EquipementFront.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/EvenementUser.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/utils/Session.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/OffreAdmin.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/entity/Reservation.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/entity/Client.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/service/ReclamationService.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/CommandeUser.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/form/ZoneAdmin.java</file>
+            <file>file:/C:/Users/21628/Documents/NetBeansProjects/PidevMobile/src/com/esprit/entity/Evenement.java</file>
+        </group>
+    </open-files>
+</project-private>
